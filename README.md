@@ -42,7 +42,7 @@ To use this simply clone the files to your machine and open the terminal in the 
 Here is a screenshot of the ledger with a few blocks of data:
 ![A Screenshot of the ledger.py file after inputting a few blocks of data.](images/ledger.png)<br>
 
-Here is a screenshot of validating the ledger the output display True otherwise it would display False:
+Here is a screenshot of validating the ledger the output display's True for a valid ledger otherwise it would display False:
 ![A Screenshot of the ledger.py file after validating the ledger.](images/validate.png)<br>
 
 
