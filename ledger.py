@@ -125,8 +125,8 @@ if st.button('Add Block'):
         creator_id= 42,
         prev_hash= prev_block_hash)
 
-    pycahin.add_block(new_block)
-    st.ballons()
+    pychain.add_block(new_block)
+    st.balloons()
 
 #Convert pychain to dataframe and display on streamlit
 
