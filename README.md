@@ -39,6 +39,13 @@ $ pip install streamlit
 
 To use this simply clone the files to your machine and open the terminal in the folder which contains the ledger.py file. Then simply type in the command streamlit run ledger.py to launch the ledger in your browser. This app takes the information inputted into the interface and creates a chain using the hashs from previous blocks. You can adjust the difficulty of the proof of work with the slider on the sidebar from 1-5 or higher if you modify the code a little bit. You can also view the individual records stored in each block from the sidebar. After adding a few blocks at the bottom of the page is a validation button to allow you to validate the intergrity of the chain.
 
+Here is a screenshot of the ledger with a few blocks of data:
+![A Screenshot of the ledger.py file after inputting a few blocks of data.](images/ledger.png)<br>
+
+Here is a screenshot of validating the ledger the output display True otherwise it would display False:
+![A Screenshot of the ledger.py file after validating the ledger.](images/validate.png)<br>
+
+
 ---
 
 ## Contributors
