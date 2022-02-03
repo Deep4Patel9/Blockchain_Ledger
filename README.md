@@ -6,7 +6,7 @@ A blockchain-based ledger system with a user-friendly web interface. This ledger
 
 ## Technologies
 
-This project uses python 3.7 along with jupyter lab 3.0.14 with the following packages:
+This project uses python 3.7 with the following packages:
 
 
 * [pandas](https://github.com/pandas-dev/pandas) - For data manipulation and analysis
